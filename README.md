@@ -35,6 +35,3 @@ The program creates:
 ## Purpose
 
 This project demonstrates basic data handling, file storage, and data analysis using Python and pandas.
-## Purpose
-
-This project demonstrates basic data handling, file storage, and data analysis using Python and pandas.
